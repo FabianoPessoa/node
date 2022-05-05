@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Primeiro Projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianoPessoa/nodeJS.git"
+  },
+  "keywords": [
+    "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"
+  ],
+  "author": "FabianoPessoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabianoPessoa/nodeJS/issues"
+  },
+  "homepage": "https://github.com/FabianoPessoa/nodeJS#readme"
+}
